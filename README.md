@@ -10,6 +10,7 @@
 >>I used the rtabmap_ros package, which is a ROS wrapper (API) for interacting with RTAB-Map.
 >>
 >>I generated the appropriate launch files to launch the robot and map its surrounding environment.
+>>
 >>When the robot is launched  I teleoperated around the room to generate a proper map of the environment.
 
 ## Conclusion:
