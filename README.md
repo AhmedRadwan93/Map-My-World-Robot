@@ -8,6 +8,9 @@
 >>Created a 2D occupancy grid and 3D octomap from a the simulated environment I created using my own robot with the RTAB-Map package.
 >>
 >>I used the rtabmap_ros package, which is a ROS wrapper (API) for interacting with RTAB-Map.
+>>
+>>I generated the appropriate launch files to launch the robot and map its surrounding environment.
+>>When the robot is launched  I teleoperated around the room to generate a proper map of the environment.
 
 ## Conclusion:
 
