@@ -1,9 +1,9 @@
 ## Map-My-World-Robot
-#Created The Following Files:
+# Created The Following Files:
 
-*mapping.launch
-*teleop.launch
-*localization.launch
+- mapping.launch
+- teleop.launch
+- localization.launch
 
 
 The environment  have clear features and geometric shapes to perform mapping.
